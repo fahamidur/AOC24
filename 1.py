@@ -1,4 +1,4 @@
-with open('1.txt', 'r') as file:
+with open('.\\inputfiles\\1.txt', 'r') as file:
 	lines = file.readlines()
 
 
